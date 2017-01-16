@@ -1,5 +1,4 @@
 /*	Programmer: Dan Reed  // 12/10/2014
-	Class: CS 1510  // Section A
 	Filename: heist.cpp
 	Purpose: This program simulates a scenario where Bender from Futurama 
 	performs a heist and must then find the exit to a maze laden with traps. 
