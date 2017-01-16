@@ -1,5 +1,4 @@
 /*	Programmer: Dan Reed  // Due: 12/10/2014
-	Class: CS 1510  // Section A
 	Filename: map.hpp
 	Purpose: Function definitions for the map class
 */
