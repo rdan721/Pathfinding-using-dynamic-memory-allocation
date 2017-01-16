@@ -1,5 +1,4 @@
 /*	Programmer: Dan Reed  // Due: 12/10/2014
-	Class: CS 1510  // Section A
 	Filename: map.h
 	Purpose: Header file for the map class. 
 	Note: 'B' represents the position of bender, who is trying to exit
